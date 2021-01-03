@@ -1,0 +1,9 @@
+Only the last line will be read
+
+collections of servers:
+localhost:3333
+https://serverX:1234
+https://serverY:1234
+
+server:
+localhost:3333

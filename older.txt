@@ -12,3 +12,6 @@ Hello World
 /departments
 [{"id":1,"name":"OUTROS","created_at":"2021-01-03T14:53:01.276Z","updated_at":"2021-01-03T14:53:01.276Z"},{"id":2,"name":"ADOLESCENTES","created_at":"2021-01-03T14:53:01.276Z","updated_at":"2021-01-03T14:53:01.276Z"},{"id":3,"name":"CRIANÇAS","created_at":"2021-01-03T14:53:01.276Z","updated_at":"2021-01-03T14:53:01.276Z"},{"id":4,"name":"JOVENS","created_at":"2021-01-03T14:53:01.276Z","updated_at":"2021-01-03T14:53:01.276Z"},{"id":5,"name":"NOVOS CONVERTIDOS","created_at":"2021-01-03T14:53:01.276Z","updated_at":"2021-01-03T14:53:01.276Z"},{"id":6,"name":"SENHORAS","created_at":"2021-01-03T14:53:01.276Z","updated_at":"2021-01-03T14:53:01.276Z"},{"id":7,"name":"SENHORES","created_at":"2021-01-03T14:53:01.276Z","updated_at":"2021-01-03T14:53:01.276Z"}]
 
+/list-departments
+["OUTROS","ADOLESCENTES","CRIANÇAS","JOVENS","NOVOS CONVERTIDOS","SENHORAS","SENHORES"]
+

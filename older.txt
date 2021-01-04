@@ -1,0 +1,14 @@
+All responses
+
+/ping
+Hello World
+
+/jacobs-sons
+[{"id":1,"name":"RÚBEN","created_at":"2021-01-03T14:53:01.243Z","updated_at":"2021-01-03T14:53:01.243Z"},{"id":2,"name":"SIMEÃO","created_at":"2021-01-03T14:53:01.243Z","updated_at":"2021-01-03T14:53:01.243Z"},{"id":3,"name":"LEVI","created_at":"2021-01-03T14:53:01.243Z","updated_at":"2021-01-03T14:53:01.243Z"},{"id":4,"name":"JUDÁ","created_at":"2021-01-03T14:53:01.243Z","updated_at":"2021-01-03T14:53:01.243Z"},{"id":5,"name":"DÃ","created_at":"2021-01-03T14:53:01.243Z","updated_at":"2021-01-03T14:53:01.243Z"},{"id":6,"name":"NAFTALI","created_at":"2021-01-03T14:53:01.243Z","updated_at":"2021-01-03T14:53:01.243Z"},{"id":7,"name":"GADE","created_at":"2021-01-03T14:53:01.243Z","updated_at":"2021-01-03T14:53:01.243Z"},{"id":8,"name":"ASER","created_at":"2021-01-03T14:53:01.243Z","updated_at":"2021-01-03T14:53:01.243Z"},{"id":9,"name":"ISSACAR","created_at":"2021-01-03T14:53:01.243Z","updated_at":"2021-01-03T14:53:01.243Z"},{"id":10,"name":"ZEBULOM","created_at":"2021-01-03T14:53:01.243Z","updated_at":"2021-01-03T14:53:01.243Z"},{"id":11,"name":"JOSÉ","created_at":"2021-01-03T14:53:01.243Z","updated_at":"2021-01-03T14:53:01.243Z"},{"id":12,"name":"BENJAMIM","created_at":"2021-01-03T14:53:01.243Z","updated_at":"2021-01-03T14:53:01.243Z"}]
+
+/stickers-status
+[{"id":1,"status":"AVAILABLE","created_at":"2021-01-03T14:53:01.263Z","updated_at":"2021-01-03T14:53:01.263Z"},{"id":2,"status":"RESERVED","created_at":"2021-01-03T14:53:01.263Z","updated_at":"2021-01-03T14:53:01.263Z"},{"id":3,"status":"REVEALED","created_at":"2021-01-03T14:53:01.263Z","updated_at":"2021-01-03T14:53:01.263Z"},{"id":4,"status":"ARCHIVED","created_at":"2021-01-03T14:53:01.263Z","updated_at":"2021-01-03T14:53:01.263Z"}]
+
+/departments
+[{"id":1,"name":"OUTROS","created_at":"2021-01-03T14:53:01.276Z","updated_at":"2021-01-03T14:53:01.276Z"},{"id":2,"name":"ADOLESCENTES","created_at":"2021-01-03T14:53:01.276Z","updated_at":"2021-01-03T14:53:01.276Z"},{"id":3,"name":"CRIANÇAS","created_at":"2021-01-03T14:53:01.276Z","updated_at":"2021-01-03T14:53:01.276Z"},{"id":4,"name":"JOVENS","created_at":"2021-01-03T14:53:01.276Z","updated_at":"2021-01-03T14:53:01.276Z"},{"id":5,"name":"NOVOS CONVERTIDOS","created_at":"2021-01-03T14:53:01.276Z","updated_at":"2021-01-03T14:53:01.276Z"},{"id":6,"name":"SENHORAS","created_at":"2021-01-03T14:53:01.276Z","updated_at":"2021-01-03T14:53:01.276Z"},{"id":7,"name":"SENHORES","created_at":"2021-01-03T14:53:01.276Z","updated_at":"2021-01-03T14:53:01.276Z"}]
+
